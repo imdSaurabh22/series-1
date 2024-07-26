@@ -1,3 +1,5 @@
+// Factoral of A Number
+
 function fact(n){
     if (n <0) return -1;
     result=1;
